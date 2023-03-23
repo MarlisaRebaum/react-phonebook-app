@@ -1,7 +1,7 @@
 # React Phonebook App
 > Using React and Redux, I created a frontend for the 
 [Phonebook Flask App](https://github.com/MarlisaRebaum/phonebook-app).
-This project uses the phonebook book database created in ElephantSQL and API 
+This project uses the phonebook contacts database created in ElephantSQL and API 
 routes written with Flask for the backend.
 
 ***Please Note:*** *The backend for this app is hosted on Heroku. 
